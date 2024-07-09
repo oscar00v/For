@@ -12,7 +12,7 @@ for (let indice = 1; indice <= 50; indice++){
   }
   
   
-  let arreglo = [3, "Hola", true, 5, 19, "Vanessa", false]
+  let arreglo = [4,"dos",8,"tres",5,9,1,"cero"];
   
   console.log("Elementos numericos de mi arreglo:")
   
